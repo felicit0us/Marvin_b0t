@@ -1,7 +1,6 @@
 # Byte-compiled / optimized / DLL files
+# Нужно добавить config.py в исключения
 
-config.py
-.idea/
 
 __pycache__/
 *.py[cod]
